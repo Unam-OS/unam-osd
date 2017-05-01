@@ -7,3 +7,8 @@ Copy the unam-osd script to `/usr/bin` (`sudo cp unam-osd /usr/bin`) and make sh
 To be able to hide/show tint2 on multiple keypresses, you will also have to make a file in `~/.config/unam/expo` named `running` (when launched, the script will store the tint2 instance's PID to kill it on 2nd launch)
 
 Then copy the OSD.tint2rc file to `~/.config/tint2`, and set a keybind to run 'unam-osd' when pressed.
+
+### unam-osd in action
+![osd](https://github.com/Unam-OS/unam-osd/blob/master/Screenshot%2001-05-2017-14_24_56.png?raw=true)
+
+![osd-2](https://github.com/Unam-OS/unam-osd/blob/master/Screenshot%2001-05-2017-14_24_32.png?raw=true)
